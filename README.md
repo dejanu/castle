@@ -6,3 +6,4 @@ The Illustrated Children's guide to GIT
 - design the architecture
 - create infrastructure
 - build walls
+- deal with water and sewage
