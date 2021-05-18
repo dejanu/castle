@@ -5,3 +5,4 @@ The Illustrated Children's guide to GIT
 - layout foundation
 - design the architecture
 - create infrastructure
+- build walls
